@@ -1,6 +1,6 @@
 name: Air Creative
 favicon: null
-layout_spectrum: 0.26454
+layout_spectrum: 0.74669
 typography_spectrum: 0.94765
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#5e5e5e'
     - '#b6b6b6'
     - '#8f8f8f'
-  brandStrength: 0.5132274385541677
+  brandStrength: 0.5
   lightness: 0.1555847532581538
   saturation: 0.03110399004071951
   rhythmicContrast: 0.28639589808881283
